@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CircleApp</string>
+    <string name="radius">Введіть радіус</string>
+    <string name="calc">Обчислити</string>
+    <string name="sq">Площа:</string>
+    <string name="p">Периметр:</string>
+</resources>
